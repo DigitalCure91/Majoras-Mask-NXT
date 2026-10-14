@@ -1,24 +1,22 @@
-[comment]: <> (Todo: Make Light Mode Image)
-[comment]: <> (Todo: Make Dark Mode Image)
-
-# Zelda Majora's Mask NXT - NPC BOTS - JRPG Stats - Leveling EXP Progression - Battle Arena Season Mode
+# Zelda Majora's Mask NXT - NPC BOTS - JRPG Stats - Leveling EXP Progression
 
 ## Done:
 
 - BOTS
 
-## To Do:
-
 - JRPG Stats
 
 - Leveling EXP Progression
 
-- Battle Arena Season Mode
+- Ben Drowned
 
+<img width="1658" height="936" alt="1" src="https://github.com/user-attachments/assets/faf2b9af-e807-4ff3-b1d0-3346cecc4e24" />
 
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/9549a42a-c73d-46b1-a4a2-a6d284a4ed16" />
+<img width="1655" height="932" alt="2" src="https://github.com/user-attachments/assets/272a2deb-6c4d-4605-bb5e-e4a57c916d43" />
 
-<img width="3840" height="2160" alt="1" src="https://github.com/user-attachments/assets/5e2501d5-385e-4bd7-af81-53b55fb8f1b7" />
+<img width="1656" height="936" alt="3" src="https://github.com/user-attachments/assets/364d5d9d-6e64-495a-9ba3-ca2a774e7721" />
+
+<img width="1660" height="933" alt="4" src="https://github.com/user-attachments/assets/6c01d4fe-e56a-491f-b107-ee0e666deb5d" />
 
 ## Discord
 
