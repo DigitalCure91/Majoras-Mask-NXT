@@ -18,10 +18,6 @@
 
 <img width="1660" height="933" alt="4" src="https://github.com/user-attachments/assets/6c01d4fe-e56a-491f-b107-ee0e666deb5d" />
 
-## Discord
-
-Official Discord: https://discord.gg/GjUChjYUKE
-
 # Quick Start
 
 2Ship does not include any copyrighted assets.  You are required to provide a supported copy of the game.
